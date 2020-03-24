@@ -20,7 +20,7 @@ elif N == 2:
         print(-1)
     else:
         print("".join(A_replace[0]))
-elif N == 2:
+elif N == 3:
     if A_replace[0] == 0:
         print(-1)
     else:
